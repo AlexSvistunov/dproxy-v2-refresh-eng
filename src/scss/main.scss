@@ -1,0 +1,21 @@
+// базовые подключения
+@import "vars";
+@import "mixins";
+@import "fonts";
+@import "settings";
+
+@import "./components/logo";
+@import "./components/dropdown.scss";
+@import "./components/switch-toggle";
+@import "./components/nav";
+@import "./components/socials";
+@import "./components/header";
+@import "./components/hero";
+@import "./components/types";
+@import "./components/work";
+@import "./components/location";
+@import "./components/footer";
+@import "./components/faq";
+@import "./components/guide-api";
+@import "./components/partnership";
+

@@ -1,0 +1,21 @@
+.partnership {
+  min-height: 100vh;
+  background: var(--bg-color);
+  padding: 133px 0 80px;
+  color: var(--light-color);
+  &__title {
+    text-align: center;
+    color: var(--light-color);
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%; /* 42px */
+    margin: 0;
+    margin-bottom: 50px;
+    @include mobile {
+      margin-bottom: 20px;
+    }
+  }
+
+
+}
